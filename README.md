@@ -1,1 +1,0 @@
-# 1824_JavaScript
